@@ -3,14 +3,7 @@
 一个基于vue3.x+element-ui简洁的博客模板
 ```
 
-## 演示地址
-[demo](http://www.fengziy.cn/fBlog/)
-[备用地址](https://fengziye.github.io/blog/)
-```
-http://www.fengziy.cn/fBlog/
 
-https://fengziye.github.io/blog/
-```
 
 ## 项目截图
 
@@ -55,7 +48,7 @@ npm run build
 ```
 
 ## 部署
-把build的dist文件命名为fBlog(自取)上传到服务器
+把build的dist文件命名为xxx(自取)上传到服务器
 
 ### nginx配置
 ```
